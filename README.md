@@ -3,11 +3,17 @@ Easy games in C#
 Boshlang‘ich darajadagi loyihalar (Beginner)
 №	Loyiha nomi	Maqsadi
 1	Calculator Program (Part 1)	Foydalanuvchidan ikki son va amal kiritib, arifmetik hisoblash (+ - * /)
+
 2	Shape Area Calculator	Shakl turi (aylana, to‘rtburchak, uchburchak) bo‘yicha yuzani hisoblash
+
 3	Simple Dice Game	Zar tashlashni imitatsiya qilish (Random) va g‘olibni aniqlash
+
 4	Number Guessing Game	Kompyuter tanlagan sonni foydalanuvchi topishi kerak (if, loop)
+
 5	Rock Paper Scissors	Foydalanuvchi va kompyuter o‘rtasida “Qog‘oz-Qaychi-Tosh” o‘yini
+
 6	Currency/Temperature Converter	Valyuta yoki harorat birliklarini boshqa birliklarga konvertatsiya qilish
+
 7	To-Do List	Foydalanuvchi vazifalar ro‘yxatini tuzadi, qo‘shadi, o‘chiradi, ko‘radi
 8	Quiz Game	Savol-javob asosidagi test o‘yini — foydalanuvchi ball yig‘adi
 9	Calculator Program (Part 2)	Kengaytirilgan kalkulyator: while, xatoliklar tekshiruvi bilan
