@@ -1,7 +1,11 @@
 # Basic-Games
 Easy games in C#
-Boshlang‘ich darajadagi loyihalar (Beginner)
+Boshlang‘ich darajadagi loyihalar (Beginner);
+
+
 №	Loyiha nomi	Maqsadi
+
+
 1	Calculator Program (Part 1)	Foydalanuvchidan ikki son va amal kiritib, arifmetik hisoblash (+ - * /)
 
 2	Shape Area Calculator	Shakl turi (aylana, to‘rtburchak, uchburchak) bo‘yicha yuzani hisoblash
