@@ -18,15 +18,24 @@ Boshlang‘ich darajadagi loyihalar (Beginner);
 
 6	Currency/Temperature Converter	Valyuta yoki harorat birliklarini boshqa birliklarga konvertatsiya qilish
 
-7	To-Do List	Foydalanuvchi vazifalar ro‘yxatini tuzadi, qo‘shadi, o‘chiradi, ko‘radi
-8	Quiz Game	Savol-javob asosidagi test o‘yini — foydalanuvchi ball yig‘adi
-9	Calculator Program (Part 2)	Kengaytirilgan kalkulyator: while, xatoliklar tekshiruvi bilan
-10	Hangman Game	Foydalanuvchi yashirin so‘zni harflar orqali topadi, noto‘g‘ri taxminlar cheklangan
-11	Memory Match	Juft kartalarni yodlab topish o‘yini (asosiy 2D array, logic)
+7	To-Do List	Foydalanuvchi vazifalar ro‘yxatini tuzadi, qo‘shadi, o‘chiradi, ko‘radi;
 
-🟡 O‘rtacha darajadagi loyihalar (Intermediate)
-№	Loyiha nomi	Maqsadi
-12	Tic Tac Toe (XO)	3x3 doskada foydalanuvchi va kompyuter yoki 2 kishi o‘ynaydi, g‘olib aniqlanadi
-13	Turn Based Combat Game	O‘yinchi va dushman navbatma-navbat zarba beradigan jang o‘yini (HP, damage)
-14	Turn Based Battle System	Ko‘p bosqichli jang tizimi: har bir bosqichda har xil qobiliyatlar ishlatiladi (klasslar, metodlar)
-15	Retro Snake Game	Terminalda klassik ilon o‘yini: ilon harakatlanadi, ozuqa yutadi, o‘zidan urilmasligi kerak
+8	Quiz Game	Savol-javob asosidagi test o‘yini — foydalanuvchi ball yig‘adi;
+
+9	Calculator Program (Part 2)	Kengaytirilgan kalkulyator: while, xatoliklar tekshiruvi bilan;
+
+10	Hangman Game	Foydalanuvchi yashirin so‘zni harflar orqali topadi, noto‘g‘ri taxminlar cheklangan;
+
+11	Memory Match	Juft kartalarni yodlab topish o‘yini (asosiy 2D array, logic);
+
+🟡 O‘rtacha darajadagi loyihalar (Intermediate);
+
+№	Loyiha nomi	Maqsadi;
+
+12	Tic Tac Toe (XO)	3x3 doskada foydalanuvchi va kompyuter yoki 2 kishi o‘ynaydi, g‘olib aniqlanadi;
+
+13	Turn Based Combat Game	O‘yinchi va dushman navbatma-navbat zarba beradigan jang o‘yini (HP, damage);
+
+14	Turn Based Battle System	Ko‘p bosqichli jang tizimi: har bir bosqichda har xil qobiliyatlar ishlatiladi (klasslar, metodlar);
+
+15	Retro Snake Game	Terminalda klassik ilon o‘yini: ilon harakatlanadi, ozuqa yutadi, o‘zidan urilmasligi kerak;
